@@ -1,4 +1,4 @@
-![logo](https://github.com/subhasissahoo181/subhasissahoo181/blob/main/banner.png)
+![logo](https://cdn.sanity.io/images/oaglaatp/production/8064d7e4900022a78321668ced70c5d4b397a128-1200x800.png?w=1200&h=800&auto=format)
 <h1 align="center">Hi 👋, I'm Subhasis Sahoo</h1>
 <h3 align="center">Project Head || Full Stack web developer || Free Lancer || Data Science Enthusiast</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
