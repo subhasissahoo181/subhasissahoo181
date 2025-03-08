@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on [Zixin Infotech Pvt.Ltd](https://zixininfotech.com/)
+- 🔭 I’m currently working on [LTIMindtree](https://www.ltimindtree.com/)
 
 - 🌱 I’m currently learning **Artificial intelligence & Machine learning**
 
